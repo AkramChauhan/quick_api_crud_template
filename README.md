@@ -1,4 +1,4 @@
-# Quick API CRUD Template | PDO MySQL
+Quick API CRUD Template | PDO MySQL
 1) Define.php File.
 	-Inside Include folder you will find define.php
 	-Add your MySQL details inside define.php
