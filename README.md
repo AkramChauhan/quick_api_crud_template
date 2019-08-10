@@ -1,4 +1,4 @@
-Quick API CRUD Template | PDO MySQL
+# Quick API CRUD Template | PDO MySQL
 1) Define.php File.
 	-Inside Include folder you will find define.php
 	-Add your MySQL details inside define.php
@@ -14,13 +14,18 @@ Quick API CRUD Template | PDO MySQL
 4) API Examples 
 	-Get Total Records
 		-This is example of how you can use getData function to get total records from table.
+	
 	-Get Records
 		-how to get records and display in JSON Format.
+	
 	-Get Records by ID
 		-how to get records where id=1 and display in JSON Format
+	
 	-Insert Record 
 		-you can use this template to create your own insert API
+	
 	-Update Record
 		-you can use this template to create your own update API.
+	
 	-Delete Record
 		-you can use this template to create your own delete API
